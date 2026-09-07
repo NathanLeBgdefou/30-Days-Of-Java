@@ -1,78 +1,14 @@
-# ☕ 30 Days Of Java
-
-<p align="center">
-  <img src="./images/badge-java.svg" alt="Java 21" />
-  <img src="./images/badge-fr.svg" alt="Cours en français" />
-  <img src="./images/badge-days.svg" alt="30 journées" />
-  <img src="./images/badge-exercises.svg" alt="120 exercices" />
-</p>
-
-**Apprendre Java pas à pas pour les études, avec Windows et VS Code.**
-
-Ce parcours s’adresse à quelqu’un qui a déjà un peu programmé en Python et découvre Java. Il commence par l’installation et va jusqu’à une application de révisions avec sauvegarde. Prévois au moins une heure par journée ; les projets se répartissent volontiers sur plusieurs séances.
-
-**30 cours complets · 30 exemples exécutables · 120 exercices · 90 corrigés Java · un projet final testé.**
-
-[🚀 Commencer au jour 01](./01_Day_Introduction/01_introduction.md) · [🧭 Mode d’emploi](./docs/MODE_EMPLOI.md) · [✅ Ma progression](./PROGRESSION.md)
-
-## Le parcours en 30 jours
-
-| Jour | Thème |
-| --- | :--- |
-| 01 | [Installation et premier programme](./01_Day_Introduction/01_introduction.md) |
-| 02 | [Variables et types](./02_Day_Variables_and_Types/02_variables_and_types.md) |
-| 03 | [Opérateurs et conversions](./03_Day_Operators_and_Conversions/03_operators_and_conversions.md) |
-| 04 | [Chaînes de caractères](./04_Day_Strings/04_strings.md) |
-| 05 | [Lire les saisies au clavier](./05_Day_User_Input/05_user_input.md) |
-| 06 | [Conditions et choix](./06_Day_Conditionals/06_conditionals.md) |
-| 07 | [Répéter avec while et do-while](./07_Day_While_Loops/07_while_loops.md) |
-| 08 | [Boucles for et premiers algorithmes](./08_Day_For_Loops/08_for_loops.md) |
-| 09 | [Tableaux](./09_Day_Arrays/09_arrays.md) |
-| 10 | [Méthodes et décomposition](./10_Day_Methods/10_methods.md) |
-| 11 | [Portée, paramètres et récursion](./11_Day_Scope_and_Parameters/11_scope_and_parameters.md) |
-| 12 | [Déboguer et vérifier son raisonnement](./12_Day_Debugging/12_debugging.md) |
-| 13 | [Mini-projet : bilan de notes](./13_Day_First_Project/13_first_project.md) |
-| 14 | [Classes et objets](./14_Day_Classes_and_Objects/14_classes_and_objects.md) |
-| 15 | [Constructeurs et encapsulation](./15_Day_Constructors_and_Encapsulation/15_constructors_and_encapsulation.md) |
-| 16 | [Associer des objets : la composition](./16_Day_Composition/16_composition.md) |
-| 17 | [Héritage et redéfinition](./17_Day_Inheritance/17_inheritance.md) |
-| 18 | [Interfaces et polymorphisme](./18_Day_Interfaces_and_Polymorphism/18_interfaces_and_polymorphism.md) |
-| 19 | [Égalité, null et objets immuables](./19_Day_Equality_and_Immutability/19_equality_and_immutability.md) |
-| 20 | [ArrayList et génériques](./20_Day_ArrayList_and_Generics/20_arraylist_and_generics.md) |
-| 21 | [Ensembles et dictionnaires](./21_Day_Sets_and_Maps/21_sets_and_maps.md) |
-| 22 | [Exceptions et saisies robustes](./22_Day_Exceptions/22_exceptions.md) |
-| 23 | [Lire et écrire des fichiers texte](./23_Day_Files/23_files.md) |
-| 24 | [Packages et projets à plusieurs fichiers](./24_Day_Packages_and_Projects/24_packages_and_projects.md) |
-| 25 | [Rechercher, trier et comprendre le coût](./25_Day_Algorithms/25_algorithms.md) |
-| 26 | [Lambdas et streams](./26_Day_Lambdas_and_Streams/26_lambdas_and_streams.md) |
-| 27 | [Dates et énumérations](./27_Day_Dates_and_Enums/27_dates_and_enums.md) |
-| 28 | [Tests automatisés et préparation du projet](./28_Day_Automated_Tests/28_automated_tests.md) |
-| 29 | [Projet final : carnet de révisions](./29_Day_Final_Project/29_final_project.md) |
-| 30 | [Bilan, évaluation et suite](./30_Day_Conclusion/30_conclusion.md) |
-
-## Comment travailler
-
-Lis le cours, prédis ce que fait l’exemple, puis exécute-le et modifie quelques valeurs. Tente les quatre exercices avant d’ouvrir leurs indices et corrigés repliables. Les fichiers Java sont complets : chaque exemple et chaque correction se lance indépendamment. Les questions de raisonnement sont corrigées dans les leçons.
-
-Les chapitres comportent des liens précédent / sommaire / suivant. Les dossiers sont numérotés comme dans la référence, et leur page d’accueil ouvre directement le cours. Le jour 01 est aussi présent ci-dessous pour retrouver l’organisation de l’original.
-
-[Installation et dépannage Windows](./docs/INSTALLATION_WINDOWS.md) · [Python → Java](./docs/PYTHON_VERS_JAVA.md) · [Glossaire](./docs/GLOSSAIRE.md) · [Autoévaluation](./docs/AUTOEVALUATION.md) · [Ressources](./docs/RESSOURCES.md)
-
-Ce cours reprend les repères de présentation du [30 Days Of Python d’Asabeneh Yetayeh](https://github.com/Asabeneh/30-Days-Of-Python). Les explications, exercices, programmes et visuels Java ont été créés pour ce dépôt. [Crédits et choix pédagogiques](./docs/CREDITS.md).
-
----
-
 <div align="center">
 <h1>☕ 30 Days Of Java : jour 01</h1>
 <h3>Installation et premier programme</h3>
 <p>Français · Java 21 · Windows &amp; VS Code</p>
 </div>
 
-[📚 Sommaire](README.md) | [Jour 02 →](02_Day_Variables_and_Types/02_variables_and_types.md)
+[📚 Sommaire](../README.md) | [Jour 02 →](../02_Day_Variables_and_Types/02_variables_and_types.md)
 
-![30 Days Of Java — apprendre à programmer](images/30DaysOfJava_banner.svg)
+![30 Days Of Java — apprendre à programmer](../images/30DaysOfJava_banner.svg)
 
-![Progression : jour 1 sur 30](images/progression-01.svg)
+![Progression : jour 1 sur 30](../images/progression-01.svg)
 
 **Durée conseillée : 60 à 90 min, installation comprise.** Garde au moins une heure ; prends plus de temps pour coder si nécessaire.
 
@@ -110,7 +46,7 @@ javac --version
 
 Les deux commandes doivent afficher la version **21.x** pour suivre exactement cette configuration. Les correctifs peuvent varier. Si ton établissement impose une autre version, garde sa consigne : les exemples du cours n'utilisent aucune fonctionnalité expérimentale. Un JDK plus récent peut exécuter ces exemples.
 
-Si une commande est introuvable, consulte le [guide de dépannage](docs/INSTALLATION_WINDOWS.md). Si VS Code sélectionne un autre JDK, ouvre `Ctrl+Maj+P`, puis **Java: Configure Java Runtime**. Attention : le Java employé par l'extension et celui de ton terminal peuvent différer.
+Si une commande est introuvable, consulte le [guide de dépannage](../docs/INSTALLATION_WINDOWS.md). Si VS Code sélectionne un autre JDK, ouvre `Ctrl+Maj+P`, puis **Java: Configure Java Runtime**. Attention : le Java employé par l'extension et celui de ton terminal peuvent différer.
 
 ## Créer ton premier fichier
 
@@ -131,7 +67,7 @@ java Bonjour
 
 `javac` crée `Bonjour.class`, du **bytecode** que la machine virtuelle Java, la **JVM**, sait exécuter. Dans la seconde commande, on donne le **nom de la classe**, sans extension. Un programme Java n'est donc pas simplement un texte que Windows exécute directement.
 
-![Du fichier Java à son exécution](images/compilation.svg)
+![Du fichier Java à son exécution](../images/compilation.svg)
 
 ## Lire la forme d'un programme
 
@@ -150,7 +86,7 @@ Contrairement à Python, l'indentation seule ne délimite pas les blocs. On inde
 <a id="exemple"></a>
 ## 🔎 Exemple complet, prêt à exécuter
 
-[Ouvrir Bonjour.java](01_Day_Introduction/exemples/Bonjour.java) · [Lire les exercices sans les réponses](01_Day_Introduction/exercices/README.md)
+[Ouvrir Bonjour.java](./exemples/Bonjour.java) · [Lire les exercices sans les réponses](./exercices/README.md)
 
 Dans VS Code, ouvre le dossier `exemples` de cette journée, puis lance dans son terminal :
 
@@ -245,7 +181,7 @@ public class Jour01Exercice02 {
 }
 ```
 
-[Ouvrir le fichier Java du corrigé](01_Day_Introduction/solutions/Jour01Exercice02.java)
+[Ouvrir le fichier Java du corrigé](./solutions/Jour01Exercice02.java)
 
 Résultat attendu :
 
@@ -285,7 +221,7 @@ public class Jour01Exercice03 {
 }
 ```
 
-[Ouvrir le fichier Java du corrigé](01_Day_Introduction/solutions/Jour01Exercice03.java)
+[Ouvrir le fichier Java du corrigé](./solutions/Jour01Exercice03.java)
 
 Résultat attendu :
 
@@ -325,7 +261,7 @@ public class Jour01Exercice04 {
 }
 ```
 
-[Ouvrir le fichier Java du corrigé](01_Day_Introduction/solutions/Jour01Exercice04.java)
+[Ouvrir le fichier Java du corrigé](./solutions/Jour01Exercice04.java)
 
 Résultat attendu :
 
@@ -347,7 +283,7 @@ Mon calcul
 - [ ] J’ai tenté les quatre exercices avant de comparer aux corrigés.
 - [ ] Je peux expliquer une erreur rencontrée et la façon dont je l’ai corrigée.
 
-[Noter ma progression](PROGRESSION.md) · [Consulter le glossaire](docs/GLOSSAIRE.md)
+[Noter ma progression](../PROGRESSION.md) · [Consulter le glossaire](../docs/GLOSSAIRE.md)
 
 ### 📎 Pour approfondir
 
@@ -356,6 +292,6 @@ Mon calcul
 
 ---
 
-[📚 Sommaire](README.md) | [Jour 02 →](02_Day_Variables_and_Types/02_variables_and_types.md)
+[📚 Sommaire](../README.md) | [Jour 02 →](../02_Day_Variables_and_Types/02_variables_and_types.md)
 
 **☕ Une étape comprise vaut mieux qu’une journée cochée trop vite.**

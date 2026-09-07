@@ -1,0 +1,722 @@
+[
+  {
+    "path": "01_Day_Introduction/exemples/Bonjour.java",
+    "main": "Bonjour",
+    "stdin": "",
+    "stdout": "Bonjour Nathan !\nJe commence Java.\n5"
+  },
+  {
+    "path": "01_Day_Introduction/solutions/Jour01Exercice02.java",
+    "main": "Jour01Exercice02",
+    "stdin": "",
+    "stdout": "Nathan\nObjectif : apprendre Java\n30"
+  },
+  {
+    "path": "01_Day_Introduction/solutions/Jour01Exercice03.java",
+    "main": "Jour01Exercice03",
+    "stdin": "",
+    "stdout": "Je teste"
+  },
+  {
+    "path": "01_Day_Introduction/solutions/Jour01Exercice04.java",
+    "main": "Jour01Exercice04",
+    "stdin": "",
+    "stdout": "Mon calcul\n7 + 8 =\n15"
+  },
+  {
+    "path": "02_Day_Variables_and_Types/exemples/Jour02Exemple.java",
+    "main": "Jour02Exemple",
+    "stdin": "",
+    "stdout": "Nathan\n2\n13.5\ntrue\n30"
+  },
+  {
+    "path": "02_Day_Variables_and_Types/solutions/Jour02Exercice02.java",
+    "main": "Jour02Exercice02",
+    "stdin": "",
+    "stdout": "30"
+  },
+  {
+    "path": "02_Day_Variables_and_Types/solutions/Jour02Exercice03.java",
+    "main": "Jour02Exercice03",
+    "stdin": "",
+    "stdout": "12.5\nNathan"
+  },
+  {
+    "path": "02_Day_Variables_and_Types/solutions/Jour02Exercice04.java",
+    "main": "Jour02Exercice04",
+    "stdin": "",
+    "stdout": "23"
+  },
+  {
+    "path": "03_Day_Operators_and_Conversions/exemples/Jour03Exemple.java",
+    "main": "Jour03Exemple",
+    "stdin": "",
+    "stdout": "Division entière : 12\nMoyenne : 12.333333333333334\n2 h 15 min"
+  },
+  {
+    "path": "03_Day_Operators_and_Conversions/solutions/Jour03Exercice02.java",
+    "main": "Jour03Exercice02",
+    "stdin": "",
+    "stdout": "13.666666666666666"
+  },
+  {
+    "path": "03_Day_Operators_and_Conversions/solutions/Jour03Exercice03.java",
+    "main": "Jour03Exercice03",
+    "stdin": "",
+    "stdout": "Somme : 27"
+  },
+  {
+    "path": "03_Day_Operators_and_Conversions/solutions/Jour03Exercice04.java",
+    "main": "Jour03Exercice04",
+    "stdin": "",
+    "stdout": "1 h 1 min 11 s"
+  },
+  {
+    "path": "04_Day_Strings/exemples/Jour04Exemple.java",
+    "main": "Jour04Exemple",
+    "stdin": "",
+    "stdout": "java\n4\ntrue\nja\nOriginal : [  JAVA  ]"
+  },
+  {
+    "path": "04_Day_Strings/solutions/Jour04Exercice02.java",
+    "main": "Jour04Exercice02",
+    "stdin": "",
+    "stdout": "Bonjour Nathan\n6"
+  },
+  {
+    "path": "04_Day_Strings/solutions/Jour04Exercice03.java",
+    "main": "Jour04Exercice03",
+    "stdin": "",
+    "stdout": "[java]"
+  },
+  {
+    "path": "04_Day_Strings/solutions/Jour04Exercice04.java",
+    "main": "Jour04Exercice04",
+    "stdin": "",
+    "stdout": "nathan.leray"
+  },
+  {
+    "path": "05_Day_User_Input/exemples/Jour05Exemple.java",
+    "main": "Jour05Exemple",
+    "stdin": "Nathan\n60\n",
+    "stdout": "Ton prénom ?\nCombien de minutes aujourd'hui ?\nBonjour Nathan.\nSur 5 jours : 300 minutes."
+  },
+  {
+    "path": "05_Day_User_Input/solutions/Jour05Exercice02.java",
+    "main": "Jour05Exercice02",
+    "stdin": " Emma \n",
+    "stdout": "Prénom ?\nSalut Emma !"
+  },
+  {
+    "path": "05_Day_User_Input/solutions/Jour05Exercice03.java",
+    "main": "Jour05Exercice03",
+    "stdin": "19\nRennes\n",
+    "stdout": "Âge ?\nVille ?\n19 ans, Rennes"
+  },
+  {
+    "path": "05_Day_User_Input/solutions/Jour05Exercice04.java",
+    "main": "Jour05Exercice04",
+    "stdin": "12.5\n15.5\n",
+    "stdout": "Note 1 (point décimal) ?\nNote 2 (point décimal) ?\nMoyenne : 14.0"
+  },
+  {
+    "path": "06_Day_Conditionals/exemples/Jour06Exemple.java",
+    "main": "Jour06Exemple",
+    "stdin": "",
+    "stdout": "Bien"
+  },
+  {
+    "path": "06_Day_Conditionals/solutions/Jour06Exercice02.java",
+    "main": "Jour06Exercice02",
+    "stdin": "",
+    "stdout": "Impair"
+  },
+  {
+    "path": "06_Day_Conditionals/solutions/Jour06Exercice03.java",
+    "main": "Jour06Exercice03",
+    "stdin": "",
+    "stdout": "Très bien"
+  },
+  {
+    "path": "06_Day_Conditionals/solutions/Jour06Exercice04.java",
+    "main": "Jour06Exercice04",
+    "stdin": "",
+    "stdout": "Non validée"
+  },
+  {
+    "path": "07_Day_While_Loops/exemples/Jour07Exemple.java",
+    "main": "Jour07Exemple",
+    "stdin": "",
+    "stdout": "Jour 1 : 60 min cumulées\nJour 2 : 120 min cumulées\nJour 3 : 180 min cumulées\nJour 4 : 240 min cumulées\nJour 5 : 300 min cumulées\nTerminé"
+  },
+  {
+    "path": "07_Day_While_Loops/solutions/Jour07Exercice02.java",
+    "main": "Jour07Exercice02",
+    "stdin": "",
+    "stdout": "5\n4\n3\n2\n1\nDépart"
+  },
+  {
+    "path": "07_Day_While_Loops/solutions/Jour07Exercice03.java",
+    "main": "Jour07Exercice03",
+    "stdin": "",
+    "stdout": "15"
+  },
+  {
+    "path": "07_Day_While_Loops/solutions/Jour07Exercice04.java",
+    "main": "Jour07Exercice04",
+    "stdin": "30\n45\n-1\n",
+    "stdout": "Durées en minutes, puis -1 pour terminer :\nTotal : 75"
+  },
+  {
+    "path": "08_Day_For_Loops/exemples/Jour08Exemple.java",
+    "main": "Jour08Exemple",
+    "stdin": "",
+    "stdout": "3\n6\n9\nNombre de multiples : 3"
+  },
+  {
+    "path": "08_Day_For_Loops/solutions/Jour08Exercice02.java",
+    "main": "Jour08Exercice02",
+    "stdin": "",
+    "stdout": "1 x 7 = 7\n2 x 7 = 14\n3 x 7 = 21\n4 x 7 = 28\n5 x 7 = 35\n6 x 7 = 42\n7 x 7 = 49\n8 x 7 = 56\n9 x 7 = 63\n10 x 7 = 70"
+  },
+  {
+    "path": "08_Day_For_Loops/solutions/Jour08Exercice03.java",
+    "main": "Jour08Exercice03",
+    "stdin": "",
+    "stdout": "****\n****\n****"
+  },
+  {
+    "path": "08_Day_For_Loops/solutions/Jour08Exercice04.java",
+    "main": "Jour08Exercice04",
+    "stdin": "",
+    "stdout": "true"
+  },
+  {
+    "path": "09_Day_Arrays/exemples/Jour09Exemple.java",
+    "main": "Jour09Exemple",
+    "stdin": "",
+    "stdout": "[12, 15, 9]\nMoyenne : 12.0"
+  },
+  {
+    "path": "09_Day_Arrays/solutions/Jour09Exercice02.java",
+    "main": "Jour09Exercice02",
+    "stdin": "",
+    "stdout": "3"
+  },
+  {
+    "path": "09_Day_Arrays/solutions/Jour09Exercice03.java",
+    "main": "Jour09Exercice03",
+    "stdin": "",
+    "stdout": "[11, 13, 16]"
+  },
+  {
+    "path": "09_Day_Arrays/solutions/Jour09Exercice04.java",
+    "main": "Jour09Exercice04",
+    "stdin": "",
+    "stdout": "-3"
+  },
+  {
+    "path": "10_Day_Methods/exemples/Jour10Exemple.java",
+    "main": "Jour10Exemple",
+    "stdin": "",
+    "stdout": "13.5\ntrue"
+  },
+  {
+    "path": "10_Day_Methods/solutions/Jour10Exercice02.java",
+    "main": "Jour10Exercice02",
+    "stdin": "",
+    "stdout": "49"
+  },
+  {
+    "path": "10_Day_Methods/solutions/Jour10Exercice03.java",
+    "main": "Jour10Exercice03",
+    "stdin": "",
+    "stdout": "true\nfalse"
+  },
+  {
+    "path": "10_Day_Methods/solutions/Jour10Exercice04.java",
+    "main": "Jour10Exercice04",
+    "stdin": "",
+    "stdout": "-2"
+  },
+  {
+    "path": "11_Day_Scope_and_Parameters/exemples/Jour11Exemple.java",
+    "main": "Jour11Exemple",
+    "stdin": "",
+    "stdout": "19\n[99, 15]"
+  },
+  {
+    "path": "11_Day_Scope_and_Parameters/solutions/Jour11Exercice02.java",
+    "main": "Jour11Exercice02",
+    "stdin": "",
+    "stdout": "6"
+  },
+  {
+    "path": "11_Day_Scope_and_Parameters/solutions/Jour11Exercice03.java",
+    "main": "Jour11Exercice03",
+    "stdin": "",
+    "stdout": "5\n5.5"
+  },
+  {
+    "path": "11_Day_Scope_and_Parameters/solutions/Jour11Exercice04.java",
+    "main": "Jour11Exercice04",
+    "stdin": "",
+    "stdout": "15"
+  },
+  {
+    "path": "12_Day_Debugging/exemples/Jour12Exemple.java",
+    "main": "Jour12Exemple",
+    "stdin": "",
+    "stdout": "Attendu : 10.5\nObtenu : 10.5\nTest réussi : true"
+  },
+  {
+    "path": "12_Day_Debugging/solutions/Jour12Exercice02.java",
+    "main": "Jour12Exercice02",
+    "stdin": "",
+    "stdout": "3\n8\n10"
+  },
+  {
+    "path": "12_Day_Debugging/solutions/Jour12Exercice03.java",
+    "main": "Jour12Exercice03",
+    "stdin": "",
+    "stdout": "false\ntrue\ntrue"
+  },
+  {
+    "path": "12_Day_Debugging/solutions/Jour12Exercice04.java",
+    "main": "Jour12Exercice04",
+    "stdin": "",
+    "stdout": "true\ntrue"
+  },
+  {
+    "path": "13_Day_First_Project/exemples/Jour13Exemple.java",
+    "main": "Jour13Exemple",
+    "stdin": "",
+    "stdout": "Nombre : 4\nMoyenne : 11.25\nMaximum : 15\nValidées : 3"
+  },
+  {
+    "path": "13_Day_First_Project/solutions/Jour13Exercice02.java",
+    "main": "Jour13Exercice02",
+    "stdin": "",
+    "stdout": "8"
+  },
+  {
+    "path": "13_Day_First_Project/solutions/Jour13Exercice03.java",
+    "main": "Jour13Exercice03",
+    "stdin": "",
+    "stdout": "false\ntrue"
+  },
+  {
+    "path": "13_Day_First_Project/solutions/Jour13Exercice04.java",
+    "main": "Jour13Exercice04",
+    "stdin": "",
+    "stdout": "14.0"
+  },
+  {
+    "path": "14_Day_Classes_and_Objects/exemples/Jour14Exemple.java",
+    "main": "Jour14Exemple",
+    "stdin": "",
+    "stdout": "Alice : 36 crédits\nBob : 12 crédits"
+  },
+  {
+    "path": "14_Day_Classes_and_Objects/solutions/Jour14Exercice02.java",
+    "main": "Jour14Exercice02",
+    "stdin": "",
+    "stdout": "Java : 240 pages"
+  },
+  {
+    "path": "14_Day_Classes_and_Objects/solutions/Jour14Exercice03.java",
+    "main": "Jour14Exercice03",
+    "stdin": "",
+    "stdout": "2\n1"
+  },
+  {
+    "path": "14_Day_Classes_and_Objects/solutions/Jour14Exercice04.java",
+    "main": "Jour14Exercice04",
+    "stdin": "",
+    "stdout": "1"
+  },
+  {
+    "path": "15_Day_Constructors_and_Encapsulation/exemples/Jour15Exemple.java",
+    "main": "Jour15Exemple",
+    "stdin": "",
+    "stdout": "true\n24\nfalse\n24"
+  },
+  {
+    "path": "15_Day_Constructors_and_Encapsulation/solutions/Jour15Exercice02.java",
+    "main": "Jour15Exercice02",
+    "stdin": "",
+    "stdout": "Nathan"
+  },
+  {
+    "path": "15_Day_Constructors_and_Encapsulation/solutions/Jour15Exercice03.java",
+    "main": "Jour15Exercice03",
+    "stdin": "",
+    "stdout": "false\n10\ntrue\n15"
+  },
+  {
+    "path": "15_Day_Constructors_and_Encapsulation/solutions/Jour15Exercice04.java",
+    "main": "Jour15Exercice04",
+    "stdin": "",
+    "stdout": "true\nfalse\n3"
+  },
+  {
+    "path": "16_Day_Composition/exemples/Jour16Exemple.java",
+    "main": "Jour16Exemple",
+    "stdin": "",
+    "stdout": "Nathan — 35000 Rennes"
+  },
+  {
+    "path": "16_Day_Composition/solutions/Jour16Exercice02.java",
+    "main": "Jour16Exercice02",
+    "stdin": "",
+    "stdout": "Java : 60 min"
+  },
+  {
+    "path": "16_Day_Composition/solutions/Jour16Exercice03.java",
+    "main": "Jour16Exercice03",
+    "stdin": "",
+    "stdout": "12"
+  },
+  {
+    "path": "16_Day_Composition/solutions/Jour16Exercice04.java",
+    "main": "Jour16Exercice04",
+    "stdin": "",
+    "stdout": "750"
+  },
+  {
+    "path": "17_Day_Inheritance/exemples/Jour17Exemple.java",
+    "main": "Jour17Exemple",
+    "stdin": "",
+    "stdout": "Nathan étudie Informatique"
+  },
+  {
+    "path": "17_Day_Inheritance/solutions/Jour17Exercice02.java",
+    "main": "Jour17Exercice02",
+    "stdin": "",
+    "stdout": "Miaou"
+  },
+  {
+    "path": "17_Day_Inheritance/solutions/Jour17Exercice03.java",
+    "main": "Jour17Exercice03",
+    "stdin": "",
+    "stdout": "Java — 60 min"
+  },
+  {
+    "path": "17_Day_Inheritance/solutions/Jour17Exercice04.java",
+    "main": "Jour17Exercice04",
+    "stdin": "",
+    "stdout": "Miaou\nOuaf"
+  },
+  {
+    "path": "18_Day_Interfaces_and_Polymorphism/exemples/Jour18Exemple.java",
+    "main": "Jour18Exemple",
+    "stdin": "",
+    "stdout": "12.0\n25.0"
+  },
+  {
+    "path": "18_Day_Interfaces_and_Polymorphism/solutions/Jour18Exercice02.java",
+    "main": "Jour18Exercice02",
+    "stdin": "",
+    "stdout": "15"
+  },
+  {
+    "path": "18_Day_Interfaces_and_Polymorphism/solutions/Jour18Exercice03.java",
+    "main": "Jour18Exercice03",
+    "stdin": "",
+    "stdout": "12.0"
+  },
+  {
+    "path": "18_Day_Interfaces_and_Polymorphism/solutions/Jour18Exercice04.java",
+    "main": "Jour18Exercice04",
+    "stdin": "",
+    "stdout": "Java\nJAVA"
+  },
+  {
+    "path": "19_Day_Equality_and_Immutability/exemples/Jour19Exemple.java",
+    "main": "Jour19Exemple",
+    "stdin": "",
+    "stdout": "false\ntrue\ntrue\nfalse\n2"
+  },
+  {
+    "path": "19_Day_Equality_and_Immutability/solutions/Jour19Exercice02.java",
+    "main": "Jour19Exercice02",
+    "stdin": "",
+    "stdout": "true\n4"
+  },
+  {
+    "path": "19_Day_Equality_and_Immutability/solutions/Jour19Exercice03.java",
+    "main": "Jour19Exercice03",
+    "stdin": "",
+    "stdout": "false\nfalse\ntrue"
+  },
+  {
+    "path": "19_Day_Equality_and_Immutability/solutions/Jour19Exercice04.java",
+    "main": "Jour19Exercice04",
+    "stdin": "",
+    "stdout": "14"
+  },
+  {
+    "path": "20_Day_ArrayList_and_Generics/exemples/Jour20Exemple.java",
+    "main": "Jour20Exemple",
+    "stdin": "",
+    "stdout": "Java\n3\nJava\nAlgorithmique\nAnglais"
+  },
+  {
+    "path": "20_Day_ArrayList_and_Generics/solutions/Jour20Exercice02.java",
+    "main": "Jour20Exercice02",
+    "stdin": "",
+    "stdout": "[Java]"
+  },
+  {
+    "path": "20_Day_ArrayList_and_Generics/solutions/Jour20Exercice03.java",
+    "main": "Jour20Exercice03",
+    "stdin": "",
+    "stdout": "[12, 15]\n[12, 15, 18]"
+  },
+  {
+    "path": "20_Day_ArrayList_and_Generics/solutions/Jour20Exercice04.java",
+    "main": "Jour20Exercice04",
+    "stdin": "",
+    "stdout": "[12, 15]"
+  },
+  {
+    "path": "21_Day_Sets_and_Maps/exemples/Jour21Exemple.java",
+    "main": "Jour21Exemple",
+    "stdin": "",
+    "stdout": "java : 3\npython : 1\nalgo : 1"
+  },
+  {
+    "path": "21_Day_Sets_and_Maps/solutions/Jour21Exercice02.java",
+    "main": "Jour21Exercice02",
+    "stdin": "",
+    "stdout": "[Java, Maths, Anglais]"
+  },
+  {
+    "path": "21_Day_Sets_and_Maps/solutions/Jour21Exercice03.java",
+    "main": "Jour21Exercice03",
+    "stdin": "",
+    "stdout": "0\n1"
+  },
+  {
+    "path": "21_Day_Sets_and_Maps/solutions/Jour21Exercice04.java",
+    "main": "Jour21Exercice04",
+    "stdin": "",
+    "stdout": "[A, B]"
+  },
+  {
+    "path": "22_Day_Exceptions/exemples/Jour22Exemple.java",
+    "main": "Jour22Exemple",
+    "stdin": "abc\n25\n14\n",
+    "stdout": "Note ?\nSaisis un entier, par exemple 14.\nLa note doit être entre 0 et 20.\nNote retenue : 14"
+  },
+  {
+    "path": "22_Day_Exceptions/solutions/Jour22Exercice02.java",
+    "main": "Jour22Exercice02",
+    "stdin": "",
+    "stdout": "Entier attendu"
+  },
+  {
+    "path": "22_Day_Exceptions/solutions/Jour22Exercice03.java",
+    "main": "Jour22Exercice03",
+    "stdin": "",
+    "stdout": "3.0\nValeur invalide"
+  },
+  {
+    "path": "22_Day_Exceptions/solutions/Jour22Exercice04.java",
+    "main": "Jour22Exercice04",
+    "stdin": "x\n0\n8\n",
+    "stdout": "Entier attendu\nValeur strictement positive attendue\nRetenu : 8"
+  },
+  {
+    "path": "23_Day_Files/exemples/Jour23Exemple.java",
+    "main": "Jour23Exemple",
+    "stdin": "",
+    "stdout": "Somme relue : 36"
+  },
+  {
+    "path": "23_Day_Files/solutions/Jour23Exercice02.java",
+    "main": "Jour23Exercice02",
+    "stdin": "",
+    "stdout": "Révision de Java"
+  },
+  {
+    "path": "23_Day_Files/solutions/Jour23Exercice03.java",
+    "main": "Jour23Exercice03",
+    "stdin": "",
+    "stdout": "Pas encore de données"
+  },
+  {
+    "path": "23_Day_Files/solutions/Jour23Exercice04.java",
+    "main": "Jour23Exercice04",
+    "stdin": "",
+    "stdout": "14.0"
+  },
+  {
+    "path": "24_Day_Packages_and_Projects/exemples/Jour24Exemple.java",
+    "main": "Jour24Exemple",
+    "stdin": "",
+    "stdout": "java.time.LocalDate\nProjet complet : ouvrir le dossier projet de cette journée."
+  },
+  {
+    "path": "24_Day_Packages_and_Projects/solutions/Jour24Exercice02.java",
+    "main": "Jour24Exercice02",
+    "stdin": "",
+    "stdout": "2"
+  },
+  {
+    "path": "24_Day_Packages_and_Projects/solutions/Jour24Exercice03.java",
+    "main": "Jour24Exercice03",
+    "stdin": "",
+    "stdout": "Bonjour Nathan"
+  },
+  {
+    "path": "24_Day_Packages_and_Projects/solutions/Jour24Exercice04.java",
+    "main": "Jour24Exercice04",
+    "stdin": "",
+    "stdout": "12.0"
+  },
+  {
+    "path": "25_Day_Algorithms/exemples/Jour25Exemple.java",
+    "main": "Jour25Exemple",
+    "stdin": "",
+    "stdout": "3\n-1"
+  },
+  {
+    "path": "25_Day_Algorithms/solutions/Jour25Exercice02.java",
+    "main": "Jour25Exercice02",
+    "stdin": "",
+    "stdout": "0\n-1"
+  },
+  {
+    "path": "25_Day_Algorithms/solutions/Jour25Exercice03.java",
+    "main": "Jour25Exercice03",
+    "stdin": "",
+    "stdout": "[9, 2, 7]\n[2, 7, 9]"
+  },
+  {
+    "path": "25_Day_Algorithms/solutions/Jour25Exercice04.java",
+    "main": "Jour25Exercice04",
+    "stdin": "",
+    "stdout": "[1, 2, 3, 4]"
+  },
+  {
+    "path": "26_Day_Lambdas_and_Streams/exemples/Jour26Exemple.java",
+    "main": "Jour26Exemple",
+    "stdin": "",
+    "stdout": "[12, 14, 16]\n42\n[8, 14, 12, 9, 16]"
+  },
+  {
+    "path": "26_Day_Lambdas_and_Streams/solutions/Jour26Exercice02.java",
+    "main": "Jour26Exercice02",
+    "stdin": "",
+    "stdout": "[2, 4, 6]"
+  },
+  {
+    "path": "26_Day_Lambdas_and_Streams/solutions/Jour26Exercice03.java",
+    "main": "Jour26Exercice03",
+    "stdin": "",
+    "stdout": "[4, 6, 1]"
+  },
+  {
+    "path": "26_Day_Lambdas_and_Streams/solutions/Jour26Exercice04.java",
+    "main": "Jour26Exercice04",
+    "stdin": "",
+    "stdout": "[Java, Maths]"
+  },
+  {
+    "path": "27_Day_Dates_and_Enums/exemples/Jour27Exemple.java",
+    "main": "Jour27Exemple",
+    "stdin": "",
+    "stdout": "true\nfalse\n3\n2026-09-22"
+  },
+  {
+    "path": "27_Day_Dates_and_Enums/solutions/Jour27Exercice02.java",
+    "main": "Jour27Exercice02",
+    "stdin": "",
+    "stdout": "2024-03-01"
+  },
+  {
+    "path": "27_Day_Dates_and_Enums/solutions/Jour27Exercice03.java",
+    "main": "Jour27Exercice03",
+    "stdin": "",
+    "stdout": "TERMINEE\nÉtat invalide"
+  },
+  {
+    "path": "27_Day_Dates_and_Enums/solutions/Jour27Exercice04.java",
+    "main": "Jour27Exercice04",
+    "stdin": "",
+    "stdout": "false\ntrue\ntrue"
+  },
+  {
+    "path": "28_Day_Automated_Tests/exemples/Jour28Exemple.java",
+    "main": "Jour28Exemple",
+    "stdin": "",
+    "stdout": "4 vérifications réussies"
+  },
+  {
+    "path": "28_Day_Automated_Tests/solutions/Jour28Exercice02.java",
+    "main": "Jour28Exercice02",
+    "stdin": "",
+    "stdout": "3 vérifications réussies"
+  },
+  {
+    "path": "28_Day_Automated_Tests/solutions/Jour28Exercice03.java",
+    "main": "Jour28Exercice03",
+    "stdin": "",
+    "stdout": "Refus et acceptation vérifiés"
+  },
+  {
+    "path": "28_Day_Automated_Tests/solutions/Jour28Exercice04.java",
+    "main": "Jour28Exercice04",
+    "stdin": "",
+    "stdout": "Retard : 3 vérifications réussies"
+  },
+  {
+    "path": "29_Day_Final_Project/exemples/Jour29Exemple.java",
+    "main": "Jour29Exemple",
+    "stdin": "",
+    "stdout": "Réviser les tableaux\nfalse\ntrue"
+  },
+  {
+    "path": "29_Day_Final_Project/solutions/Jour29Exercice02.java",
+    "main": "Jour29Exercice02",
+    "stdin": "",
+    "stdout": "Réviser Java"
+  },
+  {
+    "path": "29_Day_Final_Project/solutions/Jour29Exercice03.java",
+    "main": "Jour29Exercice03",
+    "stdin": "",
+    "stdout": "true"
+  },
+  {
+    "path": "29_Day_Final_Project/solutions/Jour29Exercice04.java",
+    "main": "Jour29Exercice04",
+    "stdin": "",
+    "stdout": "1\n-1"
+  },
+  {
+    "path": "30_Day_Conclusion/exemples/Jour30Exemple.java",
+    "main": "Jour30Exemple",
+    "stdin": "",
+    "stdout": "1"
+  },
+  {
+    "path": "30_Day_Conclusion/solutions/Jour30Exercice02.java",
+    "main": "Jour30Exercice02",
+    "stdin": "",
+    "stdout": "8\n0"
+  },
+  {
+    "path": "30_Day_Conclusion/solutions/Jour30Exercice03.java",
+    "main": "Jour30Exercice03",
+    "stdin": "",
+    "stdout": "Borne +7 vérifiée"
+  },
+  {
+    "path": "30_Day_Conclusion/solutions/Jour30Exercice04.java",
+    "main": "Jour30Exercice04",
+    "stdin": "",
+    "stdout": "[2, 3]"
+  }
+]

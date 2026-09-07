@@ -1,0 +1,10 @@
+*.class
+**/out/
+**/.build/
+**/bin/
+**/target/
+**/data/taches.tsv
+**/data/*.tmp
+mes-exercices/
+__pycache__/
+.DS_Store

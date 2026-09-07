@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="628" viewBox="0 0 1200 628" role="img" aria-labelledby="title"><title id="title">30 days of Java — apprendre à programmer, en français</title><defs>
+<linearGradient id="blue"><stop stop-color="#8395ee"/><stop offset="1" stop-color="#168fdf"/></linearGradient>
+<linearGradient id="sun"><stop stop-color="#ffef84"/><stop offset="1" stop-color="#ffce27"/></linearGradient>
+</defs>
+<rect width="1200" height="628" fill="#2196e6"/>
+<path d="M0 0H624C764 164 425 229 511 410S580 669 282 628H0Z" fill="url(#blue)"/>
+<path d="M0 0H359C264 94 190 170 75 106L0 53Z" fill="#fff"/>
+<circle cx="144" cy="24" r="72" fill="url(#sun)"/>
+<circle cx="461" cy="552" r="165" fill="url(#sun)"/>
+<path d="M0 542C71 448 106 464 172 535S243 602 327 628H0Z" fill="#fff"/>
+<path d="M0 121C112 241 245 60 456 0H0Z" fill="#b7b5ff" opacity=".18"/>
+<rect y="163" width="1200" height="313" fill="#0a2339" opacity=".87"/>
+<text x="205" y="290" font-family="DejaVu Sans,Arial,sans-serif" font-size="74" fill="#ffffff" font-weight="normal" text-anchor="start">30 days of</text><g transform="translate(681 225)">
+<path d="M0 17H68V56C68 76 0 76 0 56Z" fill="#ffd95a"/>
+<path d="M68 24H78C101 24 101 59 74 59H68" fill="none" stroke="#ffd95a" stroke-width="9"/>
+<path d="M-7 83H81" stroke="#62b5ed" stroke-width="8" stroke-linecap="round"/>
+<path d="M22 5C3-13 47-20 25-39M45 5C26-13 70-20 48-39" fill="none" stroke="#83c4ec" stroke-width="5" stroke-linecap="round"/>
+</g><text x="793" y="290" font-family="DejaVu Sans,Arial,sans-serif" font-size="94" fill="#ffffff" font-weight="normal" text-anchor="start">java</text><text x="600" y="390" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" fill="#d6e5ef" font-weight="normal" text-anchor="middle">Apprendre à programmer</text><text x="1160" y="592" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#fff" font-weight="normal" text-anchor="end">FRANÇAIS  /  30 JOURS</text></svg>
