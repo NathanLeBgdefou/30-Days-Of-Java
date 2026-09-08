@@ -2,9 +2,9 @@
 
 [← Sommaire](../README.md)
 
-## Résultats de la vérification initiale
+## Résultats de la vérification
 
-Vérification effectuée le 7 septembre 2026.
+Vérification effectuée le 7 septembre 2026. Le [contrôle GitHub Actions sur Java 21](https://github.com/NathanLeBgdefou/30-Days-Of-Java/actions/runs/34147050882) a réussi sur la version initiale publiée du cours (`f59d686`).
 
 | Contrôle | Résultat |
 | --- | --- |
@@ -16,13 +16,15 @@ Vérification effectuée le 7 septembre 2026.
 | Carnet final | 52 vérifications de règles et de stockage réussies. |
 | Menu du carnet | Ajout, terminaison, relance, saisies invalides et fichier invalide préservé vérifiés. |
 | Navigation interne | 1 148 liens et ancres vérifiés. |
+| Publication | Les 339 fichiers de la version initiale publiée sont identiques aux fichiers préparés, empreintes Git vérifiées. |
+| GitHub Actions | Tous les contrôles automatiques réussis sur Temurin 21, Ubuntu et Python 3.12. |
 | Visuels | SVG rendus et inspectés ; bannières et schémas fournis localement. |
 
 ## Environnement et portée
 
-Les vérifications locales utilisent OpenJDK **17.0.20** sous Linux. Elles confirment que les exemples n’utilisent pas de fonctionnalités postérieures à Java 17. Le parcours d’installation vise **JDK 21** ; une vérification GitHub Actions sur Temurin 21 est fournie et s’exécutera lorsque le dépôt sera publié. Ce contrôle distant n’a pas encore été exécuté dans cette préparation.
+Les premières vérifications locales ont utilisé OpenJDK **17.0.20** sous Linux. Elles confirment que les exemples n’utilisent pas de fonctionnalités postérieures à Java 17. Après publication, le même script a réussi dans **GitHub Actions avec Temurin 21**, sous Ubuntu et Python 3.12. Le parcours d’installation vise **JDK 21**. Le workflow relance ces contrôles à chaque push et pull request.
 
-Les commandes PowerShell suivent la configuration Windows décrite dans les guides, mais n’ont pas été exécutées sur un PC Windows pendant cette vérification. Les visuels ont été inspectés sous forme rendue ; la mise en page Markdown finale dépend du rendu GitHub, qui sera vérifié après publication.
+Les commandes PowerShell suivent la configuration Windows décrite dans les guides, mais n’ont pas été exécutées sur un PC Windows pendant cette vérification. Les visuels ont été rendus et inspectés avant publication. Le dernier contrôle de l’affichage des pages sur GitHub n’a pas pu aboutir, la session du navigateur ayant été interrompue ; les liens et les fichiers d’images publiés ont été vérifiés.
 
 ## Reproduire les contrôles
 
